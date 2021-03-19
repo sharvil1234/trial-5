@@ -144,7 +144,6 @@ p {
 }
 
 /*SYMPTOMS*/
-
 #symptom1:checked+label {
 	background-color: whitesmoke;
 	border-color: red;
